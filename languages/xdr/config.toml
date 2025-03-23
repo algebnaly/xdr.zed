@@ -1,0 +1,4 @@
+name = "XDR Syntax Highlight"
+grammar = "naive_xdr"
+path_suffixes = ["xdr"]
+line_comments = []
