@@ -1,4 +1,4 @@
-id = "xdr-algebnaly-ext"
+id = "xdr-naive"
 name = "XDR Syntax Highlight"
 version = "0.0.2"
 schema_version = 1
